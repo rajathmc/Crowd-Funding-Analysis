@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+basemap
+squarify
+nltk
+wordcloud
